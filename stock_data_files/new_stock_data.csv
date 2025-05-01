@@ -1,0 +1,46 @@
+Date,Close,CompanyName,New_Date,Description
+2018/9/5,694.400024,British Airways,Day Right before Public Knows:2018/9/5,"British Airways is the second largest UK-based carrier. British Airways announced on September 6 2018 that it was investigating the theft of 380,000 customers’ data between August 21, 2018 until September 5, 2018, from its website, ba.com, and its mobile app. On October 25, 2018, British Airways announced that its investigation into the hack had revealed that the card payment information, including the card verification value (CVV), of an additional 77,000 customers had been stolen."
+2018/9/6,681.200012,British Airways,Day the public Knows:2018/9/6,
+2018/9/6,681.200012,British Airways,Company response:2018/9/6,
+2018/9/7,672,British Airways,Day after the company response:2018/9/7,
+2017/9/6,141.389999,Equifax,Day Right before Public Knows:2017/9/6,"Equifax, one of the three largest consumer credit reporting agencies in the United States, announced on September 7, 2017 that its systems had been breached and the sensitive personal data of 147 million Americans had been compromised. The data breached included names, home addresses, phone numbers, dates of birth, social security numbers, and driver’s license numbers. The credit card numbers of approximately 209,000 consumers were also breached."
+2017/9/7,142.720001,Equifax,Day the public Knows:2017/9/7,
+2017/9/8,123.230003,Equifax,Company response:2017/9/8,
+2017/9/11,113.120003,Equifax,Day after the company response:2017/9/11,
+2015/11/23,48.509281,Hilton,Day Right before Public Knows:2015/11/23,"The hotel chain Hilton notified the public about the data breaches on November 24, 2015, which was more than nine months after the first discovery and more than three months after the second. By this point, there had already been media reports that several banks suspected card details had been stolen from payment systems used in Hilton gift shops and restaurants. More than 363,000 accounts were put at risk, although it remains unclear whether the perpetrators managed to extract any details."
+2015/11/24,48.1194,Hilton,Day the public Knows:2015/11/24,
+2015/11/24,48.1194,Hilton,Company response:2015/11/24,
+2015/11/25,47.893681,Hilton,Day after the company response:2015/11/25,
+2021/7/26,289.049988,LinkedIn,Day Right before Public Knows:2021/7/26,"Linkedin is an American business and employment-oriented online service that operates via websites and mobile apps. In June, 2021, the data of more than 700 million LinkedIn users was posted for sale on the dark web. Hackers had scraped data that included the full names, email addresses, usernames, phone numbers, social media accounts, and personal and professional experience. However, Linkedin denied suffering a data breach and assured users that no private data had been exposed."
+2021/7/27,286.540009,LinkedIn,Day the public Knows:2021/7/27,
+2021/7/29,286.5,LinkedIn,Company response:2021/7/29,
+2021/7/30,284.910004,LinkedIn,Day after the company response:2021/7/30,
+2022/9/21,2.67,Optus,Day Right before Public Knows:2022/9/21,"On September 22, Australian telecommunications giant Optus revealed about 11.2 million customers had personal data stolen in a data breach. The Threat actor responsible for stealing then advertising the data released 10,200 records before claiming to delete the rest of the possible 11.2 million records. Optus did not pay the demanded $1 million USD ransom. This was Australia’s largest data breach in terms of volume of citizens impacted, with Drivers licenses, Passports and Medicare numbers all difficult to replace."
+2022/9/22,2.68,Optus,Day the public Knows:2022/9/22,
+2022/9/22,2.68,Optus,Company response:2022/9/22,
+2022/9/23,2.65,Optus,Day after the company response:2022/9/23,
+2019/7/30,10.84,Pearson,Day Right before Public Knows:2019/7/30,"Pearson, a London-based publishing and education giant, has revealed on July 31, 2019 that it has suffered a major data breach. The breach affected more than 13,000 school and university accounts with some accounts containing information on hundreds of thousands of students at those institutions. The exposed data was isolated to first name, last name, and in some instances may include date of birth and/or email address. Luckily no social security numbers or financial information were accessed by the hackers."
+2019/7/31,10.54,Pearson,Day the public Knows:2019/7/31,
+2019/7/31,10.54,Pearson,Company response:2019/7/31,
+2019/8/1,10.19,Pearson,Day after the company response:2019/8/1,
+2013/12/18,63.549999,Target,Day Right before Public Knows:2013/12/18,"In November and December 2013, cyber thieves executed a successful cyber attack
+against Target, one of the largest retail companies in the United States. The attackers stole the financial and personal information of up to 70 million Target customers. On December 19, 2013, Target confirmed that credit and debit card information of 40 million customers had been exposed."
+2013/12/19,62.150002,Target,Day the public Knows:2013/12/19,
+2013/12/20,62.490002,Target,Company response:2013/12/20,
+2013/12/23,61.880001,Target,Day after the company response:2013/12/23,
+2022/7/20,39.599998,Twitter,Day Right before Public Knows:2022/7/20,"On August 5, 2022, the social media company Twitter confirmed that the data breach that happened in July has allowed an attacker to get access to the contact details of 5.4 million accounts. Users’ phone numbers and email addresses have been offered for sale on a hacking forum. In January, 2022, Twitter had previously confirmed the existence of the vulnerability, but not commented on the fact that it had been exploited."
+2022/7/21,39.52,Twitter,Day the public Knows:2022/7/21,
+2022/8/5,42.52,Twitter,Company response:2022/8/5,
+2022/8/8,42.939999,Twitter,Day after the company response:2022/8/8,
+2021/8/14,144.940002,T-Mobile,Day Right before Public Knows:2021/8/14,"On Aug 16, 2021, the mobile communications services provider T-Mobile confirmed that a cyberattack had led to the theft of millions of people's personal information. T-Mobile said only about 850,000 people's names, addresses and PINs were compromised. According to court filings, however, approximately 76.6 million people had been affected. Data exposed including first and last names, Social Security numbers and driver’s license information."
+2021/8/16,140.729996,T-Mobile,Day the public Knows:2021/8/16,
+2021/8/27,138.380005,T-Mobile,Company response:2021/8/27,
+2021/8/30,137.899994,T-Mobile,Day after the company response:2021/8/30,
+2019/7/30,0,DoorDash,noGraph1,"Doordash is an American company that operates an online food ordering and food delivery platform. On September 27 2019, Doordash said in a blog post that 4.9 million customers, delivery workers and merchants had their information stolen by hackers. Users who joined the platform before April 5, 2018 had their name, email and delivery addresses, order history, phone numbers and hashed and salted passwords stolen. Around 100,000 delivery workers also had their driver’s license information stolen in the breach."
+2019/7/30,0,DoorDash,noGraph2,
+2019/7/30,0,DoorDash,noGraph3,
+2019/7/30,0,DoorDash,noGraph4,
+2019/7/30,0,Yahoo,noGraph1,"On September 22, 2016, the web service provider Yahoo admitted a major security breach of its systems that happened in 2014 has affected 500 million users. The account information may have included names, email addresses, telephone numbers, dates of birth, hashed passwords, and encrypted or unencrypted security questions and answers. Three months after the statement, Yahoo announced its biggest ever security breach. The 2013 hack has affected more than one billion users."
+2019/7/30,0,Yahoo,noGraph2,
+2019/7/30,0,Yahoo,noGraph3,
+2019/7/30,0,Yahoo,noGraph4,

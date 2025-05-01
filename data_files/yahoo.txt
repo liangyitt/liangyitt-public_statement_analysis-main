@@ -1,0 +1,19 @@
+﻿We have confirmed, based on a recent investigation, that a copy of certain user account information was stolen from our network in late 2014 by what we believe is a state-sponsored actor. The account information may have included names, email addresses, telephone numbers, dates of birth, hashed passwords (the vast majority with bcrypt) and, in some cases, encrypted or unencrypted security questions and answers. The ongoing investigation suggests that stolen information did not include unprotected passwords, payment card data, or bank account information; payment card data and bank account information are not stored in the system that the investigation has found to be affected.
+Below are FAQs containing details about this issue and steps that users can take to help protect their accounts.
+What happened?
+A recent investigation by Yahoo has confirmed that a copy of certain user account information was stolen from our network in late 2014 by what we believe is a state-sponsored actor. We are working closely with law enforcement authorities and notifying potentially affected users of ways they can further secure their accounts.
+What is Yahoo doing to protect my account?
+We have taken action to protect our users, including:
+* We are notifying affected users.
+* We are asking affected users to promptly change their passwords and adopt alternate means of account verification.
+* We invalidated unencrypted security questions and answers so that they cannot be used to access an account.
+* We are recommending that all users who haven't changed their passwords since 2014 do so.
+* We continue to enhance our systems that detect and prevent unauthorized access to user accounts.
+* Our investigation into this matter continues.
+Is there anything I can do to protect myself?
+We encourage all of our users to follow these security recommendations:
+* Change your password and security questions and answers for any other accounts on which you use the same or similar credentials as the ones used for your Yahoo Account.
+* Review your accounts for suspicious activity.
+* Be cautious of any unsolicited communications that ask for your personal information or refer you to a web page asking for personal information.
+* Avoid clicking on links or downloading attachments from suspicious emails.
+Additionally, please consider using Yahoo’s Account Key, a simple authentication tool that eliminates the need to use a password altogether.

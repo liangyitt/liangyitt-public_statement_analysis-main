@@ -1,0 +1,38 @@
+﻿We take the security of our community very seriously. Earlier this month, we became aware of unusual activity involving a third-party service provider. We immediately launched an investigation and outside security experts were engaged to assess what occurred. We were subsequently able to determine that an unauthorized third party accessed some DoorDash user data on May 4, 2019. We took immediate steps to block further access by the unauthorized third party and to enhance security across our platform. We are reaching out directly to affected users.
+Who was affected and what data was accessed?
+Not every user was affected. Approximately 4.9 million consumers, Dashers, and merchants who joined our platform on or before April 5, 2018, are affected. Users who joined after April 5, 2018 are not affected. The type of user data accessed could include:
+* Profile information including names, email addresses, delivery addresses, order history, phone numbers, as well as hashed, salted passwords — a form of rendering the actual password indecipherable to third parties.
+* For some consumers, the last four digits of consumer payment cards. However, full credit card information such as full payment card numbers or a CVV was not accessed. The information accessed is not sufficient to make fraudulent charges on your payment card.
+* For some Dashers and merchants, the last four digits of their bank account number. However, full bank account information was not accessed. The information accessed is not sufficient to make fraudulent withdrawals from your bank account.
+* For approximately 100,000 Dashers, their driver’s license numbers were also accessed.
+What steps has DoorDash taken?
+We have taken a number of additional steps to further secure your data, which include adding additional protective security layers around the data, improving security protocols that govern access to our systems, and bringing in outside expertise to increase our ability to identify and repel threats.
+What should users do?
+We are reaching out directly to affected users with specific information about what was accessed. We do not believe that user passwords have been compromised, but out of an abundance of caution, we are encouraging all of those affected to reset their passwords to one that is unique to DoorDash. You can change your DoorDash password by visiting https://www.doordash.com/accounts/password/reset/ and using the email address associated with your DoorDash account.
+We deeply regret the frustration and inconvenience that this may cause you. Every member of the DoorDash community is important to us, and we want to assure you that we value your security and privacy. For further information, please see our FAQ page below. We’ve also set up a dedicated call center available 24/7 for support at 855–646–4683.
+Security Notice FAQ
+What happened?
+We take the security of our community very seriously. Earlier this month, we became aware of unusual activity involving a third-party service provider. We immediately launched an investigation and outside security experts were engaged to assess what occurred. We were subsequently able to determine that an unauthorized third party accessed some DoorDash user data on May 4, 2019. We took immediate steps to block further access by the unauthorized user and to enhance security across our platform. We are reaching out directly to affected users.
+What data was affected?
+Not every user was affected. Approximately 4.9 million consumers, Dashers and merchants who joined our platform on or before April 5, 2018, are affected. Users who joined after April 5, 2018 are not affected. The type of user data accessed could include:
+* Profile information including names, email addresses, delivery addresses, order history, and phone numbers, as well as hashed, salted passwords — a form of rendering the actual password indecipherable to third parties.
+* For some consumers, the last four digits of consumer payment cards. However, full credit card information such as full payment card numbers or a CVV was not accessed. The information accessed is not sufficient to make fraudulent charges on your payment card.
+* For some Dashers and merchants, the last four digits of their bank account number. However, full bank account information was not accessed. The information accessed is not sufficient to make fraudulent withdrawals from your bank account.
+* For approximately 100,000 Dashers their driver’s license numbers were also accessed.
+If I haven’t received a notification from DoorDash, does that mean I am not affected?
+We are in the process of notifying those affected as quickly as possible and will continue to reach out over the coming days.
+Regardless, if you are concerned, we encourage you to reset your password to one that is unique to DoorDash, particularly if you use the same password across multiple accounts. You can change your DoorDash password by visiting https://www.doordash.com/accounts/password/reset/ and using the email address associated with your DoorDash account.
+I joined DoorDash on or before April 5, 2018. Does that mean I am definitely affected?
+No, not necessarily. This incident affected a portion of users who joined on or before April 5, 2018. We are reaching out directly to notify those affected.
+I joined DoorDash after April 5, 2018. Does that mean I am not affected?
+Correct. We have no evidence to indicate that users who joined after April 5, 2018 were affected.
+What steps is DoorDash taking to address the matter?
+We took immediate steps to block further access by the unauthorized user and to enhance security across our platform. These steps include adding additional protective security layers around the data, improving security protocols that govern access to our systems, and bringing in outside expertise to increase our ability to identify and repel threats.
+We are in the process of reaching out directly to those affected with more information and users can call our dedicated call center available 24/7 for support at 855–646–4683.
+What should I do to protect my information?
+We do not believe that user passwords have been compromised and the information accessed is not sufficient to make fraudulent charges on payment cards or fraudulent withdrawals from bank accounts. Regardless, it is a security best practice to always be vigilant and regularly check your payment card and bank account for unusual activity. If you see something suspicious, you should promptly report it to your financial institution.
+We encourage all users who have any concerns to reset their password. You can change your DoorDash password by visiting https://www.doordash.com/accounts/password/reset/ and using the email address associated with your DoorDash account.
+Do I need to contact my financial institution or replace my payment card?
+The information accessed is not sufficient to make fraudulent charges on payment cards or fraudulent withdrawals from bank accounts. Regardless, it is a security best practice to always be vigilant and regularly check your payment card and bank accounts for unusual activity. If you see something suspicious, you should promptly report it to your financial institution.
+If I have more questions, what should I do?
+For further information, we’ve also set up a dedicated call center available 24/7 for support at 855–646–4683.

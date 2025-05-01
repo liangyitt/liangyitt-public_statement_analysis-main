@@ -1,0 +1,6 @@
+﻿Pearson Clinical Assessments notified affected customers of unauthorized access to approximately 13,000 school and university AIMSweb 1.0 accounts. The exposed data was isolated to first name, last name, and in some instances may include date of birth and/or email address. Protecting our customers’ information is of critical importance to us. We have strict data protections in place and have reviewed this incident, found and fixed the vulnerability.
+While we have no evidence that this information has been misused, we have notified the affected customers as a precaution. We apologize to those affected and are offering complimentary credit monitoring services as a precautionary measure.
+###
+Contact
+Scott Overland, (202) 909-4520
+Scott.Overland@pearson.com
